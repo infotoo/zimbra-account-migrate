@@ -1,4 +1,4 @@
-#!/usr/bin/php5.5
+#!/usr/bin/php
 <?php
 /**
  * Gzip Minimized 1.0 - Copyright (c) 2015-2016 Infotoo International Limited - http://www.infotoo.com (MIT License)
